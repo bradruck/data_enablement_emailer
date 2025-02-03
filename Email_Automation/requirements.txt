@@ -1,0 +1,4 @@
+jira==2.0
+openpyxl==2.5.5
+pysftp==0.2.9
+multiprocessing-logging==0.2.6
