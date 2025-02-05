@@ -27,27 +27,26 @@ Required modules: <ul>
                   </ul>
                   
 Location:         <ul>
-                  <li>Scheduled on ActiveBatch: //onlinemodelingdev/Jobs, Folders & Plans/Report/DE_Email/, 
-                                                                                                    with a file trigger
-                  <li>Deployed:  //prd-use1a-pr-34-ci-operations-01/home/bradley.ruck/Projects/data_enablement_emailer/
+                  <li>Scheduled on ActiveBatch: 
+                  <li>Deployed:  
                   </ul>
 
 Source Code:      <ul>
-                  <li>https://gitlab.oracledatacloud.com/odc-operations/DE_TURN_FTP-Emailer/
+                  <li>https:
                   </ul>
 
 LogFile Location: <ul>
-                  <li>//zfs1/Operations_limited/Data_Enablement/Data_License_Turn/Logs_Email/
+                  <li>
                   </ul>
                   
 ExcelFile Location:<ul>
-                   <li>//zfs1/Operations_limited/Data_Enablement/Data_License_Turn/Turn_Doc/
+                   <li>
                    </ul>
 
 **Contact Information -**
 
 Primary Users:    <ul>
-                  <li>Data Enablement
+                  <li>
                   </ul>
 
 Lead Customer:    <ul>
@@ -55,11 +54,11 @@ Lead Customer:    <ul>
                   </ul>
 
 Lead Developer:   <ul>
-                  <li>Bradley Ruck (bradley.ruck@oracle.com)
+                  <li>Bradley Ruck
                   </ul>
 
 Date Launched:    <ul>
-                  <li>February, 2018 as DE_Turn_Emailer
+                  <li>February, 2018
                   </ul>
                   
 Date Updated:     <ul>
